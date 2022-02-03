@@ -30,10 +30,10 @@ RPC.update(
     details="At the: hla_trainstation1",
     start=time(),
     #buttons=btns,
-    large_image="half-life512", #image which you upload on your appliсation, specify the name
-    small_image="half-life512",
-    large_text="Half-Life: Alyx", #the text that will be displayed when you hover over the icon
-    small_text="Half-Life: Alyx"
+    large_image="", #image which you upload on your appliсation, specify the name
+    small_image="",
+    large_text="", #the text that will be displayed when you hover over the icon
+    small_text=""
 )
 
 input("Write something to quit the program: ")
